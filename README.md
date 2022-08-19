@@ -2,6 +2,8 @@
 **- Hello I'm Mostafa Albelbeisi**
 ***Now I'm studying in  Luminus Technical University College (LTUC)***
 
+-This page will talk about the information I know or **learned recently**
+
 During this time, I am taking a course in (LTUC), it includes four stages:
 - Code 102 - Intro to Software Development
 - Code 201 - Foundations of Software Development
