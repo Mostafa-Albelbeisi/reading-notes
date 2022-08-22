@@ -72,3 +72,5 @@ Wrap the Child component in a forwardRef .
 Use the useImperativeHandle hook in the child to add a function to the Child .
 
 Call the Child's function from the Parent using the ref, e.g. childRef. current. childFunction() .
+
+## Things I want to know more about
