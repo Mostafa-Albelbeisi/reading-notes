@@ -19,4 +19,4 @@
     x === y ? 'true' : 'false';
 
 
-    ## Things I want to know more about
+    ## Things I want to know more about...
