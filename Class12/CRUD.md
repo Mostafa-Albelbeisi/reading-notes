@@ -38,4 +38,4 @@
 
 **What does a 500 error status code mean?**  the server encountered an unexpected condition that prevented it from fulfilling the request.
 
-**What is the difference between a status 200 and a status 201?**Successful. The 200 status code is by far the most common returned. It means, simply, that the request was received and understood and is being processed. A 201 status code indicates that a request was successful and as a result, a resource has been created.
+**What is the difference between a status 200 and a status 201?** Successful. The 200 status code is by far the most common returned. It means, simply, that the request was received and understood and is being processed. A 201 status code indicates that a request was successful and as a result, a resource has been created.
