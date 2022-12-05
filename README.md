@@ -30,6 +30,8 @@ During this time, I am taking a course in (LTUC), it includes four stages:
   - [Class19](code-401-python/Class19.md)
   - [Class20](code-401-python/Class20.md)
   - [Class22](code-401-python/Class22.md)
+  - [Class23](code-401-python/Class23.md)
+
 
 
 
